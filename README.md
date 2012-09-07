@@ -10,5 +10,5 @@ Usage
 
 Notice
 ======
-* after running backup.py, it will need authentication, please input your username(email) and password
+* when running backup.py, it will need authentication, please input your username(email) and password
 
