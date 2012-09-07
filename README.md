@@ -10,5 +10,5 @@ Usage
 
 Notice
 ======
-* if your status is private, after running backup.py, it will need authentication, please input your username(email) and password
+* after running backup.py, it will need authentication, please input your username(email) and password
 
